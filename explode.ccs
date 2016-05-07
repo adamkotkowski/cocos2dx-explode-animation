@@ -1,0 +1,12 @@
+<Solution>
+  <PropertyGroup Name="explode" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Mesh Name="monkey.c3b" />
+        <Project Name="MainScene.csd" Type="Scene3D" />
+        <Image Name="white.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
